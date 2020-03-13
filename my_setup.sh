@@ -14,6 +14,9 @@ git clone https://github.com/python-mode/python-mode.git
 git clone https://github.com/paetzke/py-autopep8.el.git
 git clone --recursive https://github.com/joaotavora/yasnippet
 
+#terminator install
+sudo apt-get install terminator
+
 #ros kinetic install
 cd ~
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
